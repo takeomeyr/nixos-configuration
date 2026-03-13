@@ -25,8 +25,8 @@ It is designed to be reproducible, modular, and easy to maintain.
 ```plaintext
 /etc/nixos/
 │
-├── users
-│     └── alex
+├── users/
+│     └── alex/
 │          ├── bashrc
 │          ├── config.jsonc
 │          ├── kitty.conf
