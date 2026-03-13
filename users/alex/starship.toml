@@ -1,0 +1,38 @@
+add_newline = false
+command_timeout = 500
+
+format = """
+$time $os $username\
+$directory\
+$git_branch$git_status
+"""
+
+[os]
+disabled = false
+format = "$symbol "
+
+[os.symbols]
+NixOS = ""
+
+[username]
+show_always = true
+format = "$user "
+
+[directory]
+format = "› $path$read_only "
+truncation_length = 3
+truncation_symbol = "…/"
+home_symbol = "~"
+read_only = " 󰍁"
+
+[git_branch]
+symbol = "󰊢"
+format = " $symbol $branch"
+
+[git_status]
+format = " $all_status$ahead_behind"
+
+[time]
+disabled = false
+use_12hr = true
+format = "$time"
