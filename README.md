@@ -11,7 +11,7 @@ This repository contains my NixOS system configuration, including system modules
 It is designed to be reproducible, modular, and easy to maintain.
 
 
-#### 📦 Features:
+#### 🎯 Features:
 
 - Declarative system configuration
 - Modular NixOS setup
