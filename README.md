@@ -25,6 +25,13 @@ It is designed to be reproducible, modular, and easy to maintain.
 ```plaintext
 /etc/nixos/
 │
+├── users
+│     └── alex
+│          ├── bashrc
+│          ├── config.jsonc
+│          ├── kitty.conf
+│          └── starship.toml
+│
 ├── configuration.nix
 ├── hardware-configuration.nix
 └── README.md
