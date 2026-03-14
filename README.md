@@ -1,3 +1,6 @@
+![Screenshot 2026 03 14-1](assets/Screenshot2026-03-14-1.png)
+![Screenshot 2026 03 14-2](assets/Screenshot2026-03-14-2.png)
+
 # nixos-configuration
 
 ![NixOS](https://img.shields.io/badge/NixOS-25.11-7C3AED?style=for-the-badge&logo=nixos&logoColor=white)
@@ -28,6 +31,9 @@ It is designed to be reproducible, modular, and easy to maintain.
 │
 ├── users/
 │     └── alex/
+│          ├── wallpapers/
+│          │      ├── mountain_wallpaper_nord.jpg
+│          │      └── nixos_wallpaper_main.png
 │          ├── bashrc
 │          ├── config.jsonc
 │          ├── kitty.conf
