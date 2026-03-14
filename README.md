@@ -1,7 +1,8 @@
 # nixos-configuration
 
 ![NixOS](https://img.shields.io/badge/NixOS-25.11-7C3AED?style=for-the-badge&logo=nixos&logoColor=white)
-![Status: Learning](https://img.shields.io/badge/Status-Learning-9B59B6?style=for-the-badge&logo=book&logoColor=white)
+![Built with Nix](https://img.shields.io/badge/Built%20with-Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Branch: main](https://img.shields.io/badge/Branch-main-2ECC71?style=for-the-badge&logo=git&logoColor=white)
 
 #### ❄️ NixOS Configuration:
 
